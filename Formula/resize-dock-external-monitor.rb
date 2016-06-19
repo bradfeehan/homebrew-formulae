@@ -1,8 +1,8 @@
 class ResizeDockExternalMonitor < Formula
   homepage "https://gist.github.com/bradfeehan/5306477"
-  url "https://gist.githubusercontent.com/bradfeehan/5306477/raw/21de3e4aedbf93b2d0438a86a98a501537db1201/resize-dock-external-monitor.sh"
-  version "837ba199e2c5696b15f6708004ca79650142f24f"
-  sha1 "7cd51ba6a7daddfc8d5e2e088d599676ebef87a0"
+  url "https://gist.githubusercontent.com/bradfeehan/5306477/raw/bde26ef9356bf78c92f2717107cb82d11186a10a/resize-dock-external-monitor.sh"
+  version "bde26ef9356bf78c92f2717107cb82d11186a10a"
+  sha256 "d0326a3c9127e9ed6a5ecc1a41160c8b7448fe94388bb81ec72e18456930d15b"
 
   def install
     bin.install "resize-dock-external-monitor.sh"
